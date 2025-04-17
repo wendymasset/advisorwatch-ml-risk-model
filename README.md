@@ -22,7 +22,7 @@ A synthetic dataset was generated to simulate real-world advisor profiles. Each 
 
 ## Features & Techniques
 
-### 🏗 Data Preprocessing
+### Data Preprocessing
 - Removed unnecessary columns and normalized fine amounts
 - Engineered features such as:
   - `complaints_per_year`
